@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [framerPort](https://ignatius-site.vercel.app/)
 
-- 🌱 I’m currently learning **React, Node.js, JavaScript**
+- 🌱 I’m currently learning **React, Solidity, JavaScript**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 👨‍💻 All of my projects are available at [ignatius-site](https://ignatius-site.vercel.app/)
 
-- 📝 I regularly write articles on [dev.to/mortty](https://dev.to/mortty)
+- 📝 I regularly write articles on [dev.to](https://dev.to/mortty)
 
-- 💬 Ask me about **Blockchain, History**
+- 💬 Ask me about **Blockchain, History, Extreme Engineering**
 
 - 📫 How to reach me **littignatius@mail.com**
 

@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 👨‍💻 All of my projects are available at [ignatius-site](https://ignatius-site.vercel.app/)
-
 - 📝 I regularly write articles on [dev.to](https://dev.to/mortty)
 
 - 💬 Ask me about **Blockchain, History, Extreme Engineering**

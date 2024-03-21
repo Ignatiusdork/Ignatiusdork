@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently building everyday!
 
-- 🌱 I’m currently learning **PHP, MySQL, Lavarel**
+- 🌱 I’m currently learning **PHP, MySQL, Laravel**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 

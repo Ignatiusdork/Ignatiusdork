@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ignilitt1" target="blank"><img src="https://img.shields.io/twitter/follow/@ignilitt1?logo=twitter&style=for-the-badge" alt="@ignilitt1" /></a> </p>
 
-- 🔭 I’m currently building [VAYC](https://dev.to/mortty)
+- 🔭 I’m currently building [VAYC](https://venom-bayc.vercel.app/)
 
 - 🌱 I’m currently learning **PHP, MySQL, Laravel**
 

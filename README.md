@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Blockchain, History, Extreme Engineering**
 
-- 📫 How to reach me **talktoignilitt@gmail.com**
+- 📫 How to reach me **littignatius@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jklg_luoDzSJIxg5JrwDDM94ekdXBfAH/view?usp=sharing)
 

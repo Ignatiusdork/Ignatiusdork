@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **littignatius@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jklg_luoDzSJIxg5JrwDDM94ekdXBfAH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11YVyfuhUJaFPOzOBLiVN358onJN_qGHC/view?usp=sharing)
 
 - ⚡ Fun fact **Tomorrow Never Comes...**
 
